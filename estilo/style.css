@@ -83,6 +83,8 @@ font-size: 3em;
 margin-bottom: 20px;
 text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.322);
 font-weight: normal;
+text-align: center;
+padding: 5px;
 }
 
 nav {
